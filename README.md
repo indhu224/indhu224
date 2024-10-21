@@ -1,4 +1,4 @@
-- 👋 Hello there, I’m Indhu
+- **👋 Hello there, I’m Indhu**
 - I'm currently working on my real-time project focusing on Full Stack Development and Data Visualization...
 - I'm curently learning AWS     
 
